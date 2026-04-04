@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Adam-hash-a11y/Adam-hash-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Adam Ha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior Frontend Developer (React.js)
+
+TypeScript, React.js, JavaScript, Node.js
+
+Builds frontend applications with React and integrates REST APIs.
+Works with component-based architecture, hooks, and structured code.
+
+Projects: see pinned repositories
+Contact: LinkedIn (your link) | Email (your email)
