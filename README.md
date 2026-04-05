@@ -1,16 +1,25 @@
-## Helllo there 👋
+## Hello there 👋
 
-I'm [Adam](https://github.com/Adam-hash-a11y) a reactjs frontend engineer.
+I'm [Adam](https://github.com/Adam-hash-a11y), a React.js frontend engineer.
 
 I build whatever I'm curious about.
 
-My main stack is TypeScript, React.js, Node.js
+---
 
-I builds frontend applications with React and integrates REST APIs.
-I work with component-based architecture, hooks, and structured code.
+### Main Stack
+- TypeScript
+- React.js
+- Node.js
 
-Quality code is king.
-Unit Testing is king as well.
+---
 
+### What I Do
+- Build frontend applications with React
+- Integrate REST APIs
+- Work with component-based architecture, hooks, and structured code
 
+---
 
+### Principles
+- Quality code is king
+- Unit testing is king as well
