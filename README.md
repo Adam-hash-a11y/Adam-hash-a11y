@@ -1,19 +1,32 @@
-### Hello there 👋
 
-I'm [Adam](https://github.com/Adam-hash-a11y), a React.js frontend engineer.
+### Hi, I'm [Adam](https://github.com/Adam-hash-a11y) 👋
 
-I build whatever I'm curious about.
+Full Stack Developer — TypeScript, Node.js, React.js
 
-### Main Stack
+I build clean, tested, production-ready applications with a strong focus on architecture and code quality.
+
+### Stack
 - TypeScript
+- Node.js + Express
 - React.js
-- Node.js
+- Jest + Supertest
+- GitHub Actions CI/CD
+- Docker (learning)
+- ESLint + Prettier + Husky
 
-### What I Do
-- Build frontend applications with React
-- Integrate REST APIs
-- Work with component-based architecture, hooks, and structured code
+### What I build
+- REST APIs with clean layered architecture
+- Full test coverage — unit, integration, validator tests
+- CI pipelines that enforce quality before every merge
+- Frontend applications with React and component-based architecture
+
+### How I work
+- Controller → Service → Validator separation on every project
+- Every endpoint is tested before it ships
+- Conventional commits and structured branching
+- Code is written to be read by humans first
 
 ### Principles
-- Quality code is king
-- Unit testing is king as well
+- Clean architecture over clever code
+- Tests are not optional
+- Every decision has a reason
