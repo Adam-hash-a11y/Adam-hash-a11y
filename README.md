@@ -27,11 +27,6 @@ I build clean, tested, production-ready applications with a strong focus on arch
 - Pre-commit hooks with Husky
 - Automated testing and linting on every push
 
-### How I work
-- Controller → Service → Validator separation on every project
-- Every endpoint is tested before it ships
-- Conventional commits and structured branching
-- Code is written to be read by humans first
 
 ### Principles
 - Clean architecture over clever code
